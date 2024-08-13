@@ -22,25 +22,26 @@ Corrections.ipynb
 
 Calculating seafloor inflation values based on the corrected pressure data.
 
-How to Use
+How to Use:
 Clone the repository:
-bash
-Copy code
+
 git clone https://github.com/YourUsername/AxialSeamountPressureAnalysis.git
+
 Install required dependencies:
+
 Ensure you have a Python environment set up (e.g., using venv or conda).
 Install necessary Python packages:
-bash
-Copy code
+
 pip install -r requirements.txt
 Run the Jupyter notebooks:
+
 Start Jupyter Notebook:
-bash
-Copy code
-jupyter notebook
+
 Open and run the notebooks in the order listed above.
+
+
 Results and Conclusion
 The results from the analysis will help determine the effectiveness of the FETCH A-Z-A instrument in monitoring volcanic activity at Axial Seamount and contribute to understanding the processes occurring at mid-ocean ridges.
 
 Contact
-For any questions or further discussion, please feel free to contact Your Name.
+For any questions or further discussion, please feel free to contact usmanchoudhary2882@gmail.com.
